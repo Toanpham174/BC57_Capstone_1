@@ -1,9 +1,11 @@
 # BC57_Capstone
  
 Thông tin nhóm :
+
 Thành viên 1: Phạm Thanh Toàn
 
-Thành viên 2 : 
+Thành viên 2 : Võ Bá Minh Tân
+
 
 Link website: https://wp.w3layouts.com/studious/
 
