@@ -3,9 +3,13 @@
 Thông tin nhóm :
 Thành viên 1: Phạm Thanh Toàn
 Thành viên 2 : 
+
 Link website: https://wp.w3layouts.com/studious/
+
 Link Github: https://github.com/Toanpham174/BC57_Capstone_1
+
 Link Youtube: https://youtu.be/Bza703mcvos
+
 Link Template_tasks : https://docs.google.com/spreadsheets/d/130xUIn_DaqsNBzP42KF966Mjx1PjbjlAc7DDDrUWDaY/edit#gid=635886603
 
 Các phần đã làm gồm : Home, About us, Contact, Blog Posts, 404 Page,Ladding Page
